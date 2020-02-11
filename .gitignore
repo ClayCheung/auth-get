@@ -1,0 +1,4 @@
+.*
+auth-get
+auth-get.tar
+!.gitignore
